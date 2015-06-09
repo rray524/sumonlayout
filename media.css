@@ -1,0 +1,65 @@
+@media(min-width:320px) and (max-width:767px){
+    .container{background: #D9D9D9;}
+    .header{min-height: 100px; background: #9FC5F8; margin-bottom: 10px; margin-top: 5px;}
+    .one{min-height: 50px; background: #CFE2FB; width: 20%; margin-left: 15px;}
+    .two{min-height: 50px; background: #CFE2FB; width: 50%; margin-left: 15px;}
+    .three{min-height: 50px; background: #CFE2FB; width: 25%; margin-left: 15px;}
+    .text-center{margin-top: 15px;}
+    .lower{margin-bottom: 10px;}
+    .four{min-height: 150px; background: #9FC5F8; width: 77%;}
+    .five{min-height: 70px; background: #CFE2FB; width: 75%; margin-left: 2px;}
+    .six{min-height: 70px; background: #CFE2FB; width: 20%; margin-left: 20px;}
+    .seven{min-height: 150px; background: #6FA8DC; margin-left: 23px; width: 21%;}
+    .main_body{margin-bottom: 10px;}
+    .eight{min-height: 400px; background: #9FC5F8; width: 77%;}
+    .nine{min-height: 345px; background: #CFE2FB; width: 20%; margin-left: 2px;}
+    .ten{min-height: 345px; background: #CFE2FB; width: 75%; margin-left: 22px;}
+    .eleven{min-height: 400px; background: #9FC5F8; margin-left: 23px; width: 21%;}
+    .twelve{min-height: 345px; background: #CFE2FB; margin-left: 25px;}
+    .footer{min-height: 60px; background: #9FC5F8; margin-bottom: 5px;}
+}
+
+/*For small device*/
+@media(min-width:768px) and (max-width:991px){
+    .container{background: #D9D9D9;}
+    .header{min-height: 100px; background: #9FC5F8; margin-bottom: 10px; margin-top: 5px;}
+    .one{min-height: 50px; background: #CFE2FB; width: 20%; margin-left: 15px;}
+    .two{min-height: 50px; background: #CFE2FB; width: 50%; margin-left: 15px;}
+    .three{min-height: 50px; background: #CFE2FB; width: 25%; margin-left: 15px;}
+    .text-center{margin-top: 15px;}
+    .lower{margin-bottom: 10px;}
+    .four{min-height: 150px; background: #9FC5F8; width: 77%;}
+    .five{min-height: 70px; background: #CFE2FB; width: 75%; margin-left: 2px;}
+    .six{min-height: 70px; background: #CFE2FB; width: 20%; margin-left: 20px;}
+    .seven{min-height: 150px; background: #6FA8DC; margin-left: 23px; width: 21%;}
+    .main_body{margin-bottom: 10px;}
+    .eight{min-height: 400px; background: #9FC5F8; width: 77%;}
+    .nine{min-height: 345px; background: #CFE2FB; width: 20%; margin-left: 2px;}
+    .ten{min-height: 345px; background: #CFE2FB; width: 75%; margin-left: 22px;}
+    .eleven{min-height: 400px; background: #9FC5F8; margin-left: 23px; width: 21%;}
+    .twelve{min-height: 345px; background: #CFE2FB; margin-left: 25px;}
+    .footer{min-height: 60px; background: #9FC5F8; margin-bottom: 5px;}
+}
+
+/*For large Device*/
+@media(min-width:992px){
+    .container{background: #D9D9D9;}
+    .header{min-height: 100px; background: #9FC5F8; margin-bottom: 10px; margin-top: 5px;}
+    .one{min-height: 50px; background: #CFE2FB; width: 20%; margin-left: 15px;}
+    .two{min-height: 50px; background: #CFE2FB; width: 50%; margin-left: 15px;}
+    .three{min-height: 50px; background: #CFE2FB; width: 25%; margin-left: 15px;}
+    .text-center{margin-top: 15px;}
+    .lower{margin-bottom: 10px;}
+    .four{min-height: 150px; background: #9FC5F8; width: 77%;}
+    .five{min-height: 70px; background: #CFE2FB; width: 75%; margin-left: 2px;}
+    .six{min-height: 70px; background: #CFE2FB; width: 20%; margin-left: 20px;}
+    .seven{min-height: 150px; background: #6FA8DC; margin-left: 23px; width: 21%;}
+    .main_body{margin-bottom: 10px;}
+    .eight{min-height: 400px; background: #9FC5F8; width: 77%;}
+    .nine{min-height: 345px; background: #CFE2FB; width: 20%; margin-left: 2px;}
+    .ten{min-height: 345px; background: #CFE2FB; width: 75%; margin-left: 22px;}
+    .eleven{min-height: 400px; background: #9FC5F8; margin-left: 23px; width: 21%;}
+    .twelve{min-height: 345px; background: #CFE2FB; margin-left: 25px;}
+    .footer{min-height: 60px; background: #9FC5F8; margin-bottom: 5px;}
+}
+    
